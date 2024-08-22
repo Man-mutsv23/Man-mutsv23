@@ -1,0 +1,14 @@
+C:\Users\mutsv\Desktop\C# Proj\bin\Debug\net8.0\C# Proj.exe
+C:\Users\mutsv\Desktop\C# Proj\bin\Debug\net8.0\C# Proj.deps.json
+C:\Users\mutsv\Desktop\C# Proj\bin\Debug\net8.0\C# Proj.runtimeconfig.json
+C:\Users\mutsv\Desktop\C# Proj\bin\Debug\net8.0\C# Proj.dll
+C:\Users\mutsv\Desktop\C# Proj\bin\Debug\net8.0\C# Proj.pdb
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.AssemblyInfoInputs.cache
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.AssemblyInfo.cs
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.csproj.CoreCompileInputs.cache
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.dll
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\refint\C# Proj.dll
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.pdb
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\C# Proj.genruntimeconfig.cache
+C:\Users\mutsv\Desktop\C# Proj\obj\Debug\net8.0\ref\C# Proj.dll
